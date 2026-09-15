@@ -17,6 +17,7 @@ Please cite our work if it sparks an idea, supports your research, or finds its 
 }
 ```
 ## 🔄 Updates
+- **[Sep 2026]** To expedite the reseach, uploaded all datasets in the <a href="https://usf.box.com/s/rov7qj1234o6yxzgnj41mpj0560bvtqe"><strong>USF-BOX</strong></a>
 - **[June 2026]** 🔥🔥🔥 Accepted (Poster) <a href="https://openreview.net/forum?id=R6JV2WOftz"><strong>(ICML-2026)</strong></a>
 
 ## Get started
@@ -28,6 +29,10 @@ Install Python 3.10 and the necessary dependencies.
 pip install -r requirements.txt
 ```
 ### 2. Datasets
+For convenience, all datasets used in this project are available in the
+[USF Box folder](https://usf.box.com/s/rov7qj1234o6yxzgnj41mpj0560bvtqe).
+Please cite the original creators of the datasets. You can also download them from the following links:
+
 <b>SWAT</b>
 - Download the files ```train.npy```, ```test.npz``` from the following link https://github.com/yuesuoqingqiu/SensitiveHUE/tree/master/data/SWaT
 - Keep the downloaded files inside the directory: ```./data/SWAT/```
